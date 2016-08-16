@@ -27,9 +27,9 @@
  *   the results to the user."
  */
 
-var rules = {
+var rules = { 
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "Hi Hector how's it going?"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
